@@ -9,7 +9,7 @@
         <div class="w-2/4 mx-auto sm:px-6 lg:px-8">
             <div class="bg-white overflow-hidden shadow-xl sm:rounded-lg">
                 
-                <table class="min-w-full leading-normal shadow-md rounded-lg overflow-hidden text-center uppercase">
+                <table class="min-w-full leading-normal shadow-md rounded-lg overflow-hidden text-center ">
                     <thead>
                       <tr>
                         <th class="px-5 py-3 border-b-2 border-gray-200 bg-gray-100 text-xs font-semibold text-gray-700 uppercase tracking-wider text-center">ID</th>
