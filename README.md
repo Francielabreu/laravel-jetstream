@@ -8,7 +8,7 @@ Foi de grande aproveito o conteúdo que compõem a documentação do Laravel Jet
 
 - Configuração e utilização do site Mailtrap para teste de envio de e-mail personalizado
 - Criação de Times dentro do Laravel JetStream
-- Socre as Classes principais do JetStream
+- Estudo sobre as classes principais e os metodos do JetStream
 - Configuração de upload no perfil do usuário
 - Configurar Niveis de acesso conforme o time do usuário
 ## Stack utilizada
