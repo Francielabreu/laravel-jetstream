@@ -29,7 +29,7 @@ Instalar o projeto laravel-jetstream
 - Instale o composer e crie a pasta vendor
     composer install
 
-- Instale dependencias do jetstream
+- Instale dependencias do Jetstream
     npm install
     npm run build
 
